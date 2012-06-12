@@ -3,7 +3,7 @@
 require ::File.expand_path('../config/environment',  __FILE__)
 run Moonshot::Application
 
-use Rack::Static, 
+ruse Rack::Static, 
   :urls => ["/stylesheets", "/images"],
   :root => "public"
 
