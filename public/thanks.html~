@@ -18,12 +18,6 @@
 		
 		background-color:#000;
       }
-<!--[if !IE 7]>
-	<style type="text/css">
-		#contentwrapper {display:table;height:100%}
-	</style>
-<![endif]-->      
-      
     </style>
     <link href="stylesheets/bootstrap-responsive.css" rel="stylesheet">
 
@@ -41,36 +35,37 @@
   </head>
 
   <body>
+
 	<div id="header"></div>
   </div>
-     <div class="navbar navbar-fixed-top">
+    <div class="navbar navbar-fixed-top">
       <div class="container">
-          <a class="brand" href="#"><img width="200px" height="83px" src="images/logo.png"></a>
+          <a class="brand" href="#"><img width="200px" height="96px" src="images/logo.png"></a>
 		<div class="social" >
 		<span> Your friends want to learn tech and science too! [Like] [Tweet] </span>
 		</div>
 		</div>
       </div>
 
-	
-	
     <div class="container head">
 
-  		<div class="row">
+      <!-- Main hero unit for a primary marketing message or call to action -->
+       
+		
+		<div class="row">
 		<div class="span 11 offset"> 
-		<h1> Learn how to send a rocket to the moon!</h1> <br><br>
-		<h2> We teach science and technology in a hands on, interactive way!</h2> <br><br>
+		<h1> We're almost there! </h1> <br><br><br><br>
 		</div>
 		<div class="span11 offset">
-        We will notify you as soon as we are ready to begin our first challenge or experiment!<br>
-		<form class="well form-inline" action="http://moonshot.us4.list-manage1.com/subscribe/post?u=d39bbea27042d12fd507b08fc&amp;id=6c91870cb0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
-			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" class="span4" placeholder="email address">
-			<input type="submit" value="Notify me!" name="subscribe" class="button btn btn-large">
-			<span class="help-block"> <a href="http://www.youtube.com/watch?v=anwy2MPT5RE">Spam?</a> No, we don't. Ever.</span>
+      We just need to confirm your email address, and we're all set!<br>
+		To complete the subscription process, please click the link in the email we just sent you.<br> <br>
+		
+		You can also help Apollo Challenge grow by sharing with your friends!<br> [Like] [Tweet]
 		</div>
 		</div>
 	</div>
-
+	
+	
 		<div id="footer">
 			<div class="container">
 			<div class="row">
@@ -87,27 +82,31 @@
       </div>
 	 
       <footer>
-        <p><br>&copy; Moonshot Academy 2012</p>
+        <p>&copy; Company 2012</p>
       </footer>
 			</div>
 		</div>
-    
+      <!-- Example row of columns -->
+      
+
+    <!-- /container -->
+
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap-transition.js"></script>
-    <script src="js/bootstrap-alert.js"></script>
-    <script src="js/bootstrap-modal.js"></script>
-    <script src="js/bootstrap-dropdown.js"></script>
-    <script src="js/bootstrap-scrollspy.js"></script>
-    <script src="js/bootstrap-tab.js"></script>
-    <script src="js/bootstrap-tooltip.js"></script>
-    <script src="js/bootstrap-popover.js"></script>
-    <script src="js/bootstrap-button.js"></script>
-    <script src="js/bootstrap-collapse.js"></script>
-    <script src="js/bootstrap-carousel.js"></script>
-    <script src="js/bootstrap-typeahead.js"></script>
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap-transition.js"></script>
+    <script src="assets/js/bootstrap-alert.js"></script>
+    <script src="assets/js/bootstrap-modal.js"></script>
+    <script src="assets/js/bootstrap-dropdown.js"></script>
+    <script src="assets/js/bootstrap-scrollspy.js"></script>
+    <script src="assets/js/bootstrap-tab.js"></script>
+    <script src="assets/js/bootstrap-tooltip.js"></script>
+    <script src="assets/js/bootstrap-popover.js"></script>
+    <script src="assets/js/bootstrap-button.js"></script>
+    <script src="assets/js/bootstrap-collapse.js"></script>
+    <script src="assets/js/bootstrap-carousel.js"></script>
+    <script src="assets/js/bootstrap-typeahead.js"></script>
 
   </body>
 </html>
