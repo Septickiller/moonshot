@@ -62,7 +62,7 @@
 		<span> Your friends want to learn tech and science too! &nbsp;&nbsp; 
 		<fb:like href="https://www.facebook.com/MoonshotChallenge" send="false" layout="button_count" width="80" show_faces="true"></fb:like>
 </span>
-<span style="padding-top:4px;">
+<span style="padding-top:4px;vertical-align: middle;">
 <a href="https://twitter.com/share" class="twitter-share-button" data-text="I'm learning how to launch a rocket to the moon on" data-via="moonchallenges">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>		 
 		  </span>
@@ -93,11 +93,9 @@
 			<div class="container">
 			<div class="row">
         <div class="span4">
-          <a href="#"><img src="images/facebook.png"></a>
-		  <a href="#"><img src="images/facebook.png"></a>
-		  <a href="#"><img src="images/facebook.png"></a>
-		  <a href="#"><img src="images/facebook.png"></a>
-		  <a href="#"><img src="images/facebook.png"></a>
+        Follow us on &nbsp;&nbsp;&nbsp;
+        <a href="http://www.facebook.com/MoonshotChallenge"><img src="images/facebook.png"></a>
+		  <a href="#"><img src="images/twitter.png"></a>
         </div>
         <div class="span4 offset4">
           <p>Want to help out or need more info? <a class="contact" href="#"><img width="" height="" src="images/astronaut-contact.png">CONTACT US</a></p>
@@ -127,5 +125,6 @@
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
 
-  </body>
+
+</body>
 </html>
