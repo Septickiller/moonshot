@@ -77,7 +77,7 @@
   		<div class="row">
 		<div class="span 11 offset"> 
 		<h1> Learn how to send a rocket to the moon!</h1> <br><br>
-		<h2> We teach science and technology in a hands on, interactive way!</h2> <br><br>
+		<h2> We teach science and technology in a hands on, interactive way! It's also free! </h2> <br><br>
 		</div>
 		<div class="span11 offset">
         We will notify you as soon as we are ready to begin our first challenge or experiment!<br>
@@ -95,7 +95,7 @@
         <div class="span4">
         Follow us on &nbsp;&nbsp;&nbsp;
         <a href="http://www.facebook.com/MoonshotChallenge"><img src="images/facebook.png"></a>
-		  <a href="#"><img src="images/twitter.png"></a>
+		  <a href="http://twitter.com/#!/moonchallenges"><img src="images/twitter.png"></a>
         </div>
         <div class="span4 offset4">
           <p>Want to help out or need more info? <a class="contact" href="#"><img width="" height="" src="images/astronaut-contact.png">CONTACT US</a></p>
@@ -103,7 +103,7 @@
       </div>
 	 
       <footer>
-        <p><br>&copy; Moonshot Academy 2012</p>
+        <p class=""><br><br><br><br>&copy; Moonshot Academy 2012</p>
       </footer>
 			</div>
 		</div>
