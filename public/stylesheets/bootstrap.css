@@ -58,6 +58,7 @@
 		width:100%;
 		background:rgba(0, 0, 0, 0.75);
 		border-top: 1px solid #fff;
+		border-bottom: 1px solid #fff;
 		margin-top:100px;
 		padding-top:30px;
 		height: 150px;
@@ -499,7 +500,8 @@ p small {
 }
 
 h1,
-h2 { 
+h2,
+h3 { 
 margin: 0;
 font-family:Century Schoolbook, serif;
  font-weight: bold;
@@ -507,7 +509,6 @@ font-family:Century Schoolbook, serif;
   text-rendering: optimizelegibility;
 }
 
-h3,
 h4,
 h5,
 h6 {
