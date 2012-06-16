@@ -51,7 +51,7 @@
   </div>
      <div class="navbar navbar-fixed-top">
       <div class="container">
-          <a class="brand" href="#"><img  src="images/logo2.png"></a>
+          <a class="brand" href="#"><img  src="images/logo.png"></a>
 		<div class="social" >
 		<span> Your friends want to learn tech and science too! &nbsp;&nbsp; 
 		<fb:like href="https://www.facebook.com/MoonshotChallenge" send="false" layout="button_count" width="80" show_faces="true"></fb:like>
