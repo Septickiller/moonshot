@@ -51,7 +51,7 @@
   </div>
      <div class="navbar navbar-fixed-top">
       <div class="container">
-          <a class="brand" href="#"><img width="200px" height="83px" src="images/logo.png"></a>
+          <a class="brand" href="#"><img  src="images/logo2.png"></a>
 		<div class="social" >
 		<span> Your friends want to learn tech and science too! &nbsp;&nbsp; 
 		<fb:like href="https://www.facebook.com/MoonshotChallenge" send="false" layout="button_count" width="80" show_faces="true"></fb:like>
@@ -70,13 +70,12 @@
     <div class="container head">
 
   		<div class="row">
-		<div class="span
-11"> 
+		<div class="span11"> 
 		<h1> Learn how to send a rocket to the moon!</h1> <br><br>
 		<h2> We teach science and technology in a hands on, interactive way! It's also free!</h2> <br><br>
 		</div>
 		<div class="span11">
-        Sign up to receive <i>interactive science and technology lessons, interviews with industry experts, exciting challenges and experiments</i>. <br>We’ll notify you as soon as we’re ready to launch!<br>
+        Sign up to receive <b style="color:#e13517">interactive science and technology lessons, interviews with industry experts, exciting challenges and experiments.</b> <br>We’ll notify you as soon as we’re ready to launch!<br>
 		<form class="well form-inline" action="http://moonshot.us4.list-manage1.com/subscribe/post?u=d39bbea27042d12fd507b08fc&amp;id=6c91870cb0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
 			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" class="span4" placeholder="email address">
 			<input type="submit" value="Notify me!" name="subscribe" class="button btn btn-large">
