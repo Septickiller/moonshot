@@ -2,7 +2,7 @@
 <html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
   <head>
     <meta charset="utf-8">
-    <title>Apollo Challenge</title>
+    <title>Moonshot Challenge</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Andrei" >
@@ -70,18 +70,20 @@
     <div class="container head">
 
   		<div class="row">
-		<div class="span 11 offset"> 
+		<div class="span
+11"> 
 		<h1> Learn how to send a rocket to the moon!</h1> <br><br>
 		<h2> We teach science and technology in a hands on, interactive way! It's also free!</h2> <br><br>
 		</div>
-		<div class="span11 offset">
-        We will notify you as soon as we are ready to begin our first challenge or experiment!<br>
+		<div class="span11">
+        Sign up to receive <i>interactive science and technology lessons, interviews with industry experts, exciting challenges and experiments</i>. <br>We’ll notify you as soon as we’re ready to launch!<br>
 		<form class="well form-inline" action="http://moonshot.us4.list-manage1.com/subscribe/post?u=d39bbea27042d12fd507b08fc&amp;id=6c91870cb0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
 			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" class="span4" placeholder="email address">
 			<input type="submit" value="Notify me!" name="subscribe" class="button btn btn-large">
 			<span class="help-block"> (<a href="http://www.youtube.com/watch?v=anwy2MPT5RE">Spam?</a> No, we don't. Ever.)</span>
 		</div>
 		</div>
+				
 	</div>
 
 		<div id="footer">

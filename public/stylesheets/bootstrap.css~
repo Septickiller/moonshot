@@ -500,7 +500,8 @@ p small {
 }
 
 h1,
-h2 { 
+h2,
+h3 { 
 margin: 0;
 font-family:Century Schoolbook, serif;
  font-weight: bold;
@@ -508,7 +509,6 @@ font-family:Century Schoolbook, serif;
   text-rendering: optimizelegibility;
 }
 
-h3,
 h4,
 h5,
 h6 {
@@ -662,6 +662,7 @@ hr {
 
 strong {
   font-weight: bold;
+  color:#E13517;
 }
 
 em {
