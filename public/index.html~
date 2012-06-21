@@ -87,10 +87,15 @@
   		<div class="row">
 		<div class="span11"> 
 		<h1> Learn how to send a rocket to the moon!</h1> <br><br>
-		<h3> Discover the science behind the lunar landing through an interactive, engaging challenge! </h3> <br>
+		<h3> Discover the science behind the lunar landing through an interactive, engaging challenge: </h3> <br>
+		
+		<span class="checkbox"><img src="images/checkbox.png" alt="" > Interactive lessons delivered weekly in your inbox</span> <br>
+		<span class="checkbox"><img src="images/checkbox.png" alt="" > Webinars and Q&As with industry experts </span> <br>
+		<span class="checkbox"><img src="images/checkbox.png" alt="" > A community passionate about tech, science and engineering </span>
+		<br><br>		
 		</div>
 		<div class="span11">
-        Join us to receive <b style="color:#e13517">interactive science and technology lessons, interviews with industry experts, exciting challenges and experiments.</b> <br>We’ll notify you as soon as we’re ready to launch!<br>
+        We’ll notify you as soon as we’re ready to launch!
 		<form class="well form-inline" action="http://moonshot.us4.list-manage1.com/subscribe/post?u=d39bbea27042d12fd507b08fc&amp;id=6c91870cb0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
 			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" class="span4" placeholder="email address">
 			<input type="submit" value="Subscribe me for FREE!" name="subscribe" class="button btn btn-large">
