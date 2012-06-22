@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Andrei" >
+    <meta itemprop="name" content="MoonshotChallenge">
+	 <meta itemprop="description" content="Be a rocketscientist in a few months! Learn  the science behind the moon landing in an interactive way!">
+	 <meta itemprop="image" content="http://www.moonshotchallenge.com/images/fb-photo.jpg">
 	<link rel="icon" href="images/favicon.ico">
 
     <!-- Le styles -->
@@ -61,6 +64,17 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+<!-- Google +1 button -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+
 
 	<div id="header"></div>
   </div>
@@ -74,7 +88,7 @@
 <span style="padding-top:4px;vertical-align: middle;">
 <a href="https://twitter.com/share" class="twitter-share-button" data-text="I'm learning how to launch a rocket to the moon on" data-via="moonchallenges">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>		 
-		 
+<g:plusone size="medium"></g:plusone>
 		  </span>
 		</div>
 		</div>
@@ -92,7 +106,7 @@
 		<span class="checkbox"><img src="images/checkbox.png" alt="" > Interactive lessons delivered weekly in your inbox</span> <br>
 		<span class="checkbox"><img src="images/checkbox.png" alt="" > Webinars and Q&As with industry experts </span> <br>
 		<span class="checkbox"><img src="images/checkbox.png" alt="" > A community passionate about tech, science and engineering </span>
-		<br><br>		
+		<br><br><br>		
 		</div>
 		<div class="span11">
         We’ll notify you as soon as we’re ready to launch!
