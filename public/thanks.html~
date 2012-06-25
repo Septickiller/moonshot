@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Andrei" >
-	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="icon" href="images/favicon.ico">
 
     <!-- Le styles -->
     <link href="stylesheets/bootstrap.css" rel="stylesheet">
@@ -101,7 +101,7 @@
 		<footer>
 		<div class="container">
 		<div class="row">
-		<p style="margin-left:30px; margin-top:-10px"> &copy; Moonshot Academy 2012</p>
+		<p style="margin-left:30px; margin-top:-10px"> &copy; Moonshot Academy 2012 Image courtesy of NASA.</p>
       </div>
         </div>
       </footer>    
