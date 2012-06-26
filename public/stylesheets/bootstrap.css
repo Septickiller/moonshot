@@ -503,15 +503,15 @@ p small {
 }
 
 h1,
-h2,
-h3 { 
+h2
+{ 
 margin: 0;
 font-family:Century Schoolbook, serif;
  font-weight: bold;
   color: inherit;
   text-rendering: optimizelegibility;
 }
-
+h3,
 h4,
 h5,
 h6 {
@@ -533,7 +533,7 @@ h6 small {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 35px;
   line-height: 36px;
 }
 
