@@ -506,7 +506,7 @@ h1,
 h2
 { 
 margin: 0;
-font-family:Century Schoolbook, serif;
+font-family:georgia, serif;
  font-weight: bold;
   color: inherit;
   text-rendering: optimizelegibility;
@@ -533,7 +533,7 @@ h6 small {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 42px;
   line-height: 36px;
 }
 
