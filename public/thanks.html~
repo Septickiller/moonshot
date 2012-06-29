@@ -60,7 +60,7 @@
   </div>
     <div class="navbar navbar-fixed-top">
       <div class="container">
-          <a class="brand" href="#"><img width="200px" height="83px" src="images/logo.png"></a>
+          <a class="brand" href="#"><img src="images/logo.png"></a>
 		</div>
       </div>
 
@@ -101,7 +101,7 @@
 		<footer>
 		<div class="container">
 		<div class="row">
-		<p style="margin-left:30px; margin-top:-10px"> &copy; Moonshot Academy 2012 Image courtesy of NASA.</p>
+		<p style="margin-left:30px; margin-top:-10px"> &copy; Moonshot Academy 2012. Image courtesy of NASA.</p>
       </div>
         </div>
       </footer>    
