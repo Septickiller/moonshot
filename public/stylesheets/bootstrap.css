@@ -56,6 +56,13 @@
 		position:absolute;
 	}
 	
+	#mani-content 
+	{
+		margin-top:80px;
+		padding-top:30px;
+		padding-bottom:30px;
+		background:rgba(0, 0, 0, 0.75);
+	}
 
 	#footer {
 		width:100%;

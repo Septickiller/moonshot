@@ -56,6 +56,12 @@
 		position:absolute;
 	}
 	
+	#mani-content 
+	{
+		margin-top:100px;
+		padding-top:30px;
+		background:rgba(0, 0, 0, 0.75);
+	}
 
 	#footer {
 		width:100%;
@@ -551,7 +557,7 @@ h2 small {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 27px;
 }
 

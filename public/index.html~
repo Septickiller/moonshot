@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <title>Moonshot Challenge</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="Through weekly tasks and webinars with experts, Moonshot Challenge teaches the science behind the lunar landing in an engaging way">
     <meta name="author" content="Andrei" >
-    <meta itemprop="name" content="MoonshotChallenge">
-	 <meta itemprop="description" content="Be a rocketscientist in a few months! Learn  the science behind the moon landing in an interactive way!">
+    <meta itemprop="name" content="Moonshot Challenge">
+	 <meta itemprop="description" content="Be a rocketscientist in a few months! Learn the science behind the moon landing in an interactive way!">
 	<meta itemprop="image" content="http://www.moonshotchallenge.com/images/fb-photo.jpg">
-	<link rel="image_src" href="http://www.moonshotchallenge.com/images/fb-photo.jpg" />
+	<link rel="image_src" href="http://www.moonshotchallenge.com/images/fb-photo.jpg" >
 	<link rel="icon" href="images/favicon.ico">
 
     <!-- Le styles -->
@@ -104,9 +104,9 @@
 		<h1> Send a rocket to the moon!</h1> <br><br>
 		<h3> Discover the science behind the lunar landing through an engaging challenge: </h3> <br>
 		
-		<span class="checkbox"><img src="images/checkbox.png" alt="" > Interactive lessons and tasks delivered weekly in your inbox</span> <br>
-		<span class="checkbox"><img src="images/checkbox.png" alt="" > Webinars and Q&As with industry experts </span> <br>
-		<span class="checkbox"><img src="images/checkbox.png" alt="" > A community passionate about tech, science and engineering </span>
+		<span class="checkbox"><img src="images/checkbox.png" alt="" > Weekly lessons and tasks, ranging from orbital mechanics to propulsion and life support, delivered weekly in your inbox </span> <br>
+		<span class="checkbox"><img src="images/checkbox.png" alt="" > Webinars and Q&As with industry experts from NASA, SpaceX and other leading organisations </span> <br>
+		<span class="checkbox"><img src="images/checkbox.png" alt="" > Track your progress and join a community passionate about tech, science and engineering </span>
 		<br><br><br>		
 		</div>
 		<div class="span11">
@@ -123,12 +123,17 @@
 		<div id="footer">
 			<div class="container">
 			<div class="row">
-        <div class="span4">
+        <div class="span2">
         Follow us on <br><br>
         <a href="http://www.facebook.com/MoonshotChallenge"><img src="images/facebook.png"></a>
 		  <a href="http://twitter.com/#!/moonchallenges"><img src="images/twitter.png"></a>
         </div>
-        <div class="span4 offset4">
+        <div class="span3">
+        Read with us <br><br>
+        <a href="/manifesto"> Launch Manifesto (About Us)  </a> <br>
+		  <a href="#"> Blog</a>
+        </div>
+        <div class="span4 offset3">
           <p><img width="" height="" src="images/astronaut-contact.png"> Want to help out or need more info?<br><br>
           <i> hello(at)moonshotchallenge.com</i>
         </div>
