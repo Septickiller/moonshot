@@ -105,7 +105,7 @@
 		<h3> Discover the science behind the lunar landing through an engaging challenge: </h3> <br>
 		
 		<span class="checkbox"><img src="images/checkbox.png" alt="" > Weekly lessons and tasks, ranging from orbital mechanics to propulsion and life support, delivered weekly in your inbox </span> <br>
-		<span class="checkbox"><img src="images/checkbox.png" alt="" > Webinars and Q&As with industry experts from NASA, SpaceX and other leading organisations </span> <br>
+		<span class="checkbox"><img src="images/checkbox.png" alt="" > Webinars and Q&As with industry experts from NASA, SpaceX and other leading organizations </span> <br>
 		<span class="checkbox"><img src="images/checkbox.png" alt="" > Track your progress and join a community passionate about tech, science and engineering </span>
 		<br><br><br>		
 		</div>
@@ -131,7 +131,7 @@
         <div class="span3">
         Read with us <br><br>
         <a href="/manifesto"> Launch Manifesto (About Us)  </a> <br>
-		  <a href="#"> Blog</a>
+		  <a href="blog.moonshotacademy.com"> Blog</a>
         </div>
         <div class="span4 offset3">
           <p><img width="" height="" src="images/astronaut-contact.png"> Want to help out or need more info?<br><br>
