@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Moonshot Challenge</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Through weekly tasks and webinars with experts, Moonshot Challenge teaches the science behind the lunar landing in an engaging way">
+    <meta name="description" content="Through weekly tasks and webinars with experts, Moonshot Challenge teaches the science behind the lunar landing in an engaging way.">
     <meta name="author" content="Andrei" >
    <meta itemprop="name" content="Moonshot Challenge">
 	 <meta itemprop="description" content="Be a rocketscientist in a few months! Learn the science behind the moon landing in an interactive way!">
@@ -132,7 +132,7 @@
         <div class="span3">
         Read with us <br><br>
         <a href="/manifesto"> Launch Manifesto (About Us)  </a> <br>
-		 
+		  <a href="http://www.blog.moonshotacademy.com" >Blog</a>
         </div>
         <div class="span4 offset3">
           <p><img width="" height="" src="images/astronaut-contact.png"> Want to help out or need more info?<br><br>
